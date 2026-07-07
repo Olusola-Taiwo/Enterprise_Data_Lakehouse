@@ -1,7 +1,6 @@
 📦 Modern Sales Data Lakehouse Project
 🏗️ Architecture
-
-
+<img width="4124" height="2960" alt="image" src="https://github.com/user-attachments/assets/0747af3f-eb62-4ccd-8082-aa7d03c221fc" />
 
 📘 Project Overview
 This project implements a modern Data Lakehouse using Databricks, designed to consolidate ERP and CRM customer‑transaction data into a governed, analytics‑ready environment.
